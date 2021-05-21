@@ -193,7 +193,7 @@ In Java we already have a few data structures and algorithms implemented and we'
 The Collections API contains a few basic interfaces to set some constraints, and many implementations to these interfaces.  
 This is the hierarchy of the API:
 
-![Collections Hierarchy](class-and-interface-hierarchy.png)  
+![Collections Hierarchy](images/class-and-interface-hierarchy.png)  
 
 ### List Interface and Its Implemintations  
 Some of the most frequently used List implementations are ArrayList and LinkedList the less-frequently used ones are Stack and Vector classes.
